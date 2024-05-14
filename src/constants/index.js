@@ -65,7 +65,7 @@ export const PROJECTS = [
     title: "Digital-Marketing Website",
     image: project4,
     description:
-    `A Digital Marketing site that I've made for one of my clients. <a href="https://www.tdmarketingdigital.com/" target="_blank" rel="noopener noreferrer" style="color: white; background-color: #6a0dad; padding: 3px 5px; border-radius: 2px; text-decoration: none;">See Demo</a>`,
+    `A Digital Marketing site which will generate more clients for your business. <a href="https://www.tdmarketingdigital.com/" target="_blank" rel="noopener noreferrer" style="color: white; background-color: #6a0dad; padding: 3px 5px; border-radius: 2px; text-decoration: none;">See Demo</a>`,
     
     technologies: ["HTML", "TailWind-CSS", "J.S", "Web3forms"],
   },
