@@ -11,7 +11,7 @@ const Navbar = () => {
         <a href="https://www.linkedin.com/in/asif-sheikh-601727271?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
           <FaLinkedin />
         </a>
-        <a href="https://github.com/AsifWest">
+        <a href="#">
           <FaGithub />
         </a>
         <a href="https://x.com/AsifWestt?t=XCs2yCUf1Fkmos5kSYYFXA&s=08">
