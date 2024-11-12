@@ -2,6 +2,8 @@ import project1 from "../assets/projects/project-5.jpg";
 import project2 from "../assets/projects/project-7.jpg";
 import project3 from "../assets/projects/project-8.jpg";
 import project4 from "../assets/projects/project-6.jpg";
+import project5 from "../assets/projects/projecttravel.png";
+
 
 export const HERO_CONTENT = `Are you seeking a skilled developer to bring your digital dreams to life? Your search ends here! Enters Asif, I specialize in crafting dynamic web solutions tailored to YOUR needs. RESULTS TALK, With a proven track record in industries ranging from healthcare to finetech, I'm equipped to tackle any challenge and deliver exceptional RESULTS. Let's collaborate. Hire me for any task. Build a website? Fight a war? Tame a Tiger? Assasination? Drop a contoversial satatement? You Name it. If you're looking for the most competent individual "I'm that person." because...
 "My unmatched perspicacity coupled with my sheer indefatigability makes me a feared opponent in any realm of human endeavor.”`;
@@ -46,6 +48,13 @@ export const PROJECTS = [
     description:
       `A movie searching web application which gives you the details about those movies. <a href="https://asifwest.github.io/Movies/" target="_blank" rel="noopener noreferrer" style="color: white; background-color: #6a0dad; padding: 3px 5px; border-radius: 2px; text-decoration: none;">See Demo</a>`,
     technologies: ["React", "Node.js", "CSS", "OMBID API"],
+  },
+  {
+    title: "Travel Website",
+    image: project5,
+    description:
+      `Traveling new place? Don't know where to go? Get our local guide. <a href="https://asifwest.github.io/Movies/" target="_blank" rel="noopener noreferrer" style="color: white; background-color: #6a0dad; padding: 3px 5px; border-radius: 2px; text-decoration: none;">See Demo</a>`,
+    technologies: ["React", "Node.js", "Tailwindcss", "Figma"],
   },
   {
     title: "Online Course-selling site",
